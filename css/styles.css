@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #bc986a;
   text-decoration: none;
   background-color: transparent;
 }
@@ -6097,7 +6097,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #a09b4f !important;
+  background-color: #659dbd !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
