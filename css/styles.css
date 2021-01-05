@@ -87,6 +87,7 @@ h1, h2, h3, h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  text-align: center;
 }
 
 abbr[title],
@@ -199,6 +200,13 @@ figure {
 img {
   vertical-align: middle;
   border-style: none;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 svg {
